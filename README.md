@@ -1,6 +1,6 @@
 # Projet-2-OC-Marc-Juhel
 
-Telechargement du fichier zip du projet 2 sur github : https://github.com/PhilippeBoisney/OpenClassrooms---Parcours-Android
+Telechargement du fichier zip du projet 2 OC sur github : https://github.com/PhilippeBoisney/OpenClassrooms---Parcours-Android
 
 1-Création d'un new repository sur github.com 
 2-Initalisation du projet avec la commande "git init" 
