@@ -1,6 +1,6 @@
 # Projet-2-OC-Marc-Juhel
 
-expliquer comment installer le projet et l'utiliser 
+Installation et utilisation de MagicGithub
 
 Telechargement du fichier zip du projet 2 OC sur github : https://github.com/PhilippeBoisney/OpenClassrooms---Parcours-Android
 
